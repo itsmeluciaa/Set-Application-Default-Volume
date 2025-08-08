@@ -1,4 +1,4 @@
-# Set Game Default Volume
+# Set Application Default Volume
 This is an AutoHotkey script that lets you automaticaly sets a specific system volume once you launch your games.
 
 Have you ever encountered the frustration of having to manually adjust your system volume when switching between different applications, such as games and browsers? This script is designed to enhance your quality of life by automating this process.
