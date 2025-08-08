@@ -20,3 +20,7 @@ This automation ensures that you no longer have to worry about adjusting the vol
 7. You can now set this .exe as a startup application, so you never have to worry about it not running. You do this by pasting the .exe into :
 ## Disclamer
 Please note that even tho there is code to prevent false anti cheat flags, some games might not like seeing your script running.
+
+Altho the only game that ever asked me to close the script was Battlefield 6, i still wanted to mention this.
+
+Also please note that running two applications, that you mention in the script, at the same time, might cause issues because it wont know which volume to use.
