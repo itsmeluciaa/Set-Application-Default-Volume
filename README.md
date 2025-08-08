@@ -1,4 +1,4 @@
-# Tarkov-Set-Default-Volume
+# Set Game Default Volume
 This is an AutoHotkey script that automaticaly sets a specific system volume once you launch Escape From Tarkov.
 
 This aims to fix inconsistent volume levels of different sound volume options in Tarkov once the main volume has been changed in Tarkov.
