@@ -1,4 +1,3 @@
-
 # Set Application Default Volume
 
 This is an AutoHotkey script that lets you automaticaly sets a specific system volume once you launch your games.
@@ -16,7 +15,7 @@ This automation ensures that you no longer have to worry about adjusting the vol
 3. Save the script.
 4. You can now test if you did everything correctly by double clicking the script and then launching a game.
 5. You can now go download the AutoHotkey to exe compiler from: https://github.com/AutoHotkey/Ahk2Exe
-6. Run Ahk2Exe and compile your script to a x64 .exe.
+6. Run Ahk2Exe and compile your script to a x64 .exe. In the dropdown menu, select the avaliable V2.x U64.
 7. You can now set this .exe as a startup application, so you never have to worry about it not running.
 You do this by pasting the .exe into: C:\Users\xx\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ## Disclamer
