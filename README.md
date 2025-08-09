@@ -11,7 +11,7 @@ This automation ensures that you no longer have to worry about adjusting the vol
 
 ## How To Use
 1. Download the script and open it in Visual Studio.
-2. Edit the 14th line according to the instructions. The EscapeFromTarkov.exe part is the example.
+2. Edit the 14th line according to the instructions. There is two entrys already, to show you exactly how to input a game or application.
 3. Save the script.
 4. You can now test if you did everything correctly by double clicking the script and then launching a game.
 5. You can now go download the AutoHotkey to exe compiler from: https://github.com/AutoHotkey/Ahk2Exe
