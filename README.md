@@ -18,7 +18,7 @@ This automation ensures that you no longer have to worry about adjusting the vol
 5. You can now go download the AutoHotkey to exe compiler from: https://github.com/AutoHotkey/Ahk2Exe
 6. Run Ahk2Exe and compile your script to a x64 .exe.
 7. You can now set this .exe as a startup application, so you never have to worry about it not running.
-You do this by pasting the .exe into:C:\Users\xx\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+You do this by pasting the .exe into: C:\Users\xx\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ## Disclamer
 Please note that even tho there is code to prevent false anti cheat flags, some games might not like seeing your script running.
 
